@@ -2,6 +2,36 @@
 
 TEEC AI Club: [清华企业家协会人工智能委员会](https://teec.org.cn/organization/organization-details?id=211)
 
+## TEEC人工智能协会
+
+在刚刚过去的几年中，人工智能技术得到了突飞猛进的发展：
+
+- 2015年，微软亚洲研究院MSRA 在 ImageNet 1000 图像识别任务上超越人类
+- 2016年，DeepMind AlphaGo战胜人类棋圣
+- 2017年，DeepMind AlphaZero 100-0 完胜AlphaGo
+- 2018年，OpenAI 在Dota游戏中，团队作战模式下打败人类世界冠军团队
+- 2019年，行业NLP模型在自然语言 GLUE Benchmark 上超越人类平均水准
+- 2020年，OpenAI GPT-3语言模型能够独立撰写高可读性文章
+- 2021年，Nvidia GauGAN2 神笔马良诞生
+- 2022年，TEEC人工智能协会启用AI辅助管理协会工作
+
+然而，大家却又经常觉得人工智能距离自己有些遥远。有人说，AI is Like Teenage SEX:
+
+- Everyone talks about it,
+- Nobody really knows how to do it,
+- Everyone thinks everyone else is doing it,
+- so everyone claims they are doing it.
+
+> &mdash; Dan Ariely, Professor at Duke
+
+TEEC人工智能委员会（TEEC.ML）是由清华企业家协会会员组成的专业委员会，由从事和关心人工智能算法技术前沿，行业应用落地发展的校友组成。协会通过定期组织沙龙活动，管理会员微信群，共享行业资源等方式服务会员。TEEC人工智能协会，将在母校和TTEC总会指导支持下，在会员的积极参与下，用于奉献，开展务实工作，和切实可行的工作，服务好会员企业，在人工智能行业做出清华人的贡献。
+
+欢迎对人工智能领域感兴趣，或者正在从事人工智能行业的会员，加入协会，组织活动，通过协会平台服务同学，讨论价值话题。
+
+## TEEC人工智能委员会微信群成员
+
+向辉，李强，王金林, Jinlin Wang，TEEC秘书处，辛卫民，黄鼎隆，黄竖，罗建刚 清华纽约群，陆凡，王晓东，刘志翔 Jason，Larry，君子不器，王永辉@中金.支柱创投，李立伟，林霆，刘捷@发飚智能，张恺华，乐哈哈，DJ 大江，方元，开云，廖春元，羊志伦，糖果般的微笑，王曙光，王商武，谷春光，邹园斌，陆菁，Wally王英骁，田博，杨军（王茅集团，加持），胡永东 TEEC，陈榕@TEEC，李立国，张聿 Tony Zhang，杨忆风，王胤@孕橙，徐捷，李继凯，徐洪军，段渠，周东Tony，Sue | Amino Capital |丰元资本，Huan (李卓桓)，肖洪波，刘劼，张建伟，RoyKong，红色设计师-Zjr，姜晓丹，刘晓松!，季广云，李竹@英诺，泉生，Ming 李明.映翰通，周文，杨清华，查扬 金杜，李峻 TEEC，Richard刘友忠，郭娜@思源，张立群Frank，姚志锋-Jeff，孙锦，张磊，刘慧凝，刘磊，杨鑫，DLG戴龙光，叶鑫，胡一川，黄耀，孙磊，姜昌浩-计算机07，王敬途Ray，衡 量，sun，杜强，李健，向凯，三石，朱晓宁@TEEC@马拉松摄影，石拓，世界上，钱坤，马俊杰，Changle_Lin，haiker，张卓，谢文，俞凯，林建国，赵勇，许亮，汪思佳，xqf，陈星SING，瞿鑫，程方（清控科创），白皓，zssure@thu，王洁瑶Jill，Allen，朱峰@星站，吴浩，Felix_Du，谭丰，路遥冬，武玮，刘屹洲，尚华，Bin，李祎，魏锋²⁰¹⁹，黄峥嵘Bryan，张黎利，Mike (李卓桓)，白弢，张黎利!，杨宇欣Rock，龚南杰，刘晓光，胡小根，王学辉 | 世纪明德&青青部落，JSun，陈炯炯
+
 ## TEEC人工智能委员会活动
 
 ### 2021-08-26: Real AI，田天，瑞莱智慧创始人&CEO，青创九期
