@@ -103,3 +103,7 @@ TEEC人工智能委员会将走进T友胡一川的企业，一探究竟，期待
 
 - [李卓桓](http://teec.org.cn/member/member-detail?id=104)，主任
 - [张黎利](http://teec.org.cn/member/member-detail?id=268)，副主任
+
+TEEC行业委员会工作组指示意见
+
+- [孟虎师兄的指示, Nov, 27, 2021](menghu-nov-22-2021.md)
